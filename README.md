@@ -42,10 +42,9 @@ Currency-Converter/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/sadiaPerveen08/currency-converter
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 
 ### 2. Open the project
 
@@ -85,16 +84,6 @@ The country code in the flag URL changes dynamically based on the selected curre
 4. The application retrieves the rate for the selected target currency.
 5. The entered amount is multiplied by the exchange rate.
 6. The converted amount is displayed on the page.
-
-## 📸 Application Preview
-
-Add a screenshot of your finished application here.
-
-```markdown
-![Currency Converter Preview](screenshot.png)
-```
-
-Place your screenshot in the project folder and name it `screenshot.png`, or update the path to match your image filename.
 
 ## ⚠️ Notes
 
